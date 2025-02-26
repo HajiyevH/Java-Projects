@@ -1,0 +1,35 @@
+20
+Lucky 800
+Property
+Service 2500
+Service 1500
+Lucky 500
+Property
+Property
+Property
+Service 3000
+Service 4500
+Lucky 1200
+Property
+Property
+Property
+Lucky 700
+Property
+Service 3500
+Lucky 1000
+Service 2000
+Property
+10
+Alice Careful
+Bob Greedy
+Charlie Tactical
+David Careful
+Eva Tactical
+Frank Greedy
+Grace Tactical
+Hannah Careful
+Isaac Greedy
+Jack Tactical
+141
+1 1 1 1 1 6 4 5 3 3 2 5 6 4 4 2 5 1 5 3 5 6 5 1 1 4 5 2 1 2 3 2 3 5 5 4 4 6 1 5 1 3 5 4 6 6 3 5 6 4 5 2 5 5 2 1 3 3 3 6 1 1 2 4 1 5 1 2 1 4 6 1 1 6 2 6 3 3 2 5 4 1 3 2 4 3 6 2 6 4 4 3 5 6 1 4 3 3 3 6 4 6 5 5 6 6 1 2 3 3 2 3 1 1 1 4 3 1 6 1 6 4 4 5 6 5 3 5 6 4 1 2 6 1 2 5 2 6 6 4 5
+Name is: Eva Last budget is: 4500 Number of properties is:  2

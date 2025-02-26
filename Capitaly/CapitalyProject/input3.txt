@@ -1,0 +1,25 @@
+14
+Property
+Lucky 500
+Property 
+Service 3000
+Service 2000
+Lucky 200
+Property
+Property
+Property 
+Service 2500
+Service 5000
+Lucky 900
+Property
+Property 
+6
+Haji Careful
+Ramal Careful
+Philip Tactical
+Ayxan Greedy
+Ibo Greedy
+Salmon Tactical
+30
+5 2 3 1 4 3 2 2 3 6 6 5 3 1 4 2 4 1 6 4 3 1 2 3 4 4 2 1 4 4
+Name is: Ibo Last budget is: 1600 Number of properties is:  0
